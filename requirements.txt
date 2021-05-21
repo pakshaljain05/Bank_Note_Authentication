@@ -20,7 +20,6 @@ Pillow==8.2.0
 pyparsing==2.4.7
 pyrsistent==0.17.3
 pytz==2021.1
-pywin32==227
 PyYAML==5.4.1
 pyzmq==20.0.0
 scikit-learn==0.24.2
