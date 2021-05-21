@@ -16,7 +16,6 @@ matplotlib==3.4.2
 mistune==0.8.4
 numpy==1.20.3
 pandas==1.2.4
-pickle
 Pillow==8.2.0
 pyparsing==2.4.7
 pyrsistent==0.17.3
