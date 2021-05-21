@@ -2,7 +2,6 @@ attrs==21.2.0
 certifi==2020.12.5
 click==8.0.1
 cycler==0.10.0
-decorator @ file:///tmp/build/80754af9/decorator_1621259047763/work
 flasgger==0.9.5
 Flask==2.0.0
 gunicorn==20.1.0
@@ -17,7 +16,7 @@ matplotlib==3.4.2
 mistune==0.8.4
 numpy==1.20.3
 pandas==1.2.4
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+pickle
 Pillow==8.2.0
 pyparsing==2.4.7
 pyrsistent==0.17.3
